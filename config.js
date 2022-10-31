@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "LOVE CONFESS",
-    introTitle: Hey Beautiful,
-    introDesc: 'Earth is strange'
-    Why do I keep going the wrong way?
-    Lost in my lonely heart
-    Behind the word love is love',
+    introTitle: 'Hey Beautiful',
+    introDesc: 'Earth is strange Why do I keep going the wrong way? Lost in my lonely heart Behind the word love is love',
     btnIntro: 'OK',
     title: 'Do you belived fall in love at first sight',
     desc: 'Can You be my Girlfriend?',
