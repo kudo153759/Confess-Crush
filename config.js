@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'I know that   . Love you so much 😘😘',
     messDesc: 'Can WE CHAT Or VIDEO CALL on FACEBOOK?.',
     btnAccept: 'Okiiiiii lol <3',
-    messLink: 'https://www.facebook.com/messages/t/kudo153759' //link mess của các bạn. VD: 
+    messLink: 'https://m.me/kudo153759' //link mess của các bạn. VD: 
 }
